@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlacklegCODE
+- 👋 Hi, I’m Harsh Raundal
 - 👀 I’m interested in doing project with team or solo !
 - 🌱 I’m currently learning BSC cs
 - 💞️ I’m looking to collaborate on any python project
