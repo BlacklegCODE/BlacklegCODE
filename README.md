@@ -20,6 +20,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=BlacklegCODE&label=Sojourns&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BlacklegCODE&label=Visitors&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
