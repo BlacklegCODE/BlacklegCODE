@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 Profile Views
-[![](https://visitcount.itsvg.in/api?id=BlacklegCODE&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=BlacklegCODE&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
