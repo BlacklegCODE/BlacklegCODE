@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/82937399?v=4" width="150" style="border-radius: 50%;" alt="Profile Picture">
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h_k_raundal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-raundal-b4a384215/)
