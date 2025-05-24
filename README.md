@@ -139,6 +139,7 @@ print(f"Average sales: {average_sales}")
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="#" target="_blank">
+    <a href="[https://www.instagram.com/h_k_raundal/](https://www.linkedin.com/in/harsh-raundal-b4a384215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (coming soon)"/>
   </a>
 </p>
