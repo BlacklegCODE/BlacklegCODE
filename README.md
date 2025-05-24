@@ -36,13 +36,23 @@
 </p>
 
 <!-- Tech Stack Section -->
+<!-- ...previous sections... -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,matplotlib,jupyter,azure,powerbi,git,github,linux&perline=7" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0081CB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-0081CB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FF5C93?style=for-the-badge"/>
+</p>
+
+<!-- ...other sections... -->
+
+<p align="center">
+  <b>Let's turn data into insights, and insights into action! 🚀</b>
 </p>
 
 <!-- Gradient Divider -->
