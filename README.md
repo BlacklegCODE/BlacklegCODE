@@ -1,6 +1,6 @@
 <!-- Fancy Profile README for BlacklegCODE -->
 
-<!-- Custom Banner (replace with your own or use this placeholder) -->
+<!-- Custom Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76D47&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+BlacklegCODE!;Data+Analyst+%7C+Visualization+Ninja+%7C+Quick+Learner;Turning+Data+Into+Stories+%F0%9F%93%88" alt="Typing SVG Banner" />
 </p>
@@ -36,8 +36,6 @@
 </p>
 
 <!-- Tech Stack Section -->
-<!-- ...previous sections... -->
-
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,12 +45,6 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DSA-0081CB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FF5C93?style=for-the-badge"/>
-</p>
-
-<!-- ...other sections... -->
-
-<p align="center">
-  <b>Let's turn data into insights, and insights into action! 🚀</b>
 </p>
 
 <!-- Gradient Divider -->
@@ -102,20 +94,64 @@ plt.show()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=150458,FF5C93,3776AB,F2C811&height=60&section=header"/>
 </p>
 
-<!-- Jupyter Notebook Sample -->
-<h2 align="center">📒 Jupyter Notebook Sample</h2>
+<!-- Jupyter Notebook Code Slideshow - Three Options -->
+
+<h2 align="center">📒 Jupyter Notebook Code Sample Showcase</h2>
+
+<!-- Option 1: Collapsible Markdown Sections -->
+<h3>Option 1: Click-through "Slides" (Collapsible Sections)</h3>
+
+<details>
+  <summary><b>Slide 1: Data Loading</b></summary>
 
 ```python
 import pandas as pd
-
-# Analyzing sample sales data
-df = pd.DataFrame({
-    'Product': ['A', 'B', 'C'],
-    'Sales': [123, 150, 98]
-})
-average_sales = df['Sales'].mean()
-print(f"Average sales: {average_sales}")
+df = pd.read_csv('data.csv')
+df.head()
 ```
+</details>
+
+<details>
+  <summary><b>Slide 2: Data Visualization</b></summary>
+
+```python
+import matplotlib.pyplot as plt
+df['column'].hist()
+plt.show()
+```
+</details>
+
+<details>
+  <summary><b>Slide 3: Data Analysis</b></summary>
+
+```python
+mean_value = df['column'].mean()
+print("Mean:", mean_value)
+```
+</details>
+
+---
+
+<!-- Option 2: Animated GIF -->
+<h3>Option 2: Animated GIF Slideshow</h3>
+
+<p align="center">
+  <!-- Replace 'your-notebook-demo.gif' with your actual GIF file path or URL -->
+  <img src="your-notebook-demo.gif" width="600" alt="Jupyter Notebook Slideshow Demo"/>
+</p>
+
+---
+
+<!-- Option 3: External Slide Viewer -->
+<h3>Option 3: Interactive Slides via External Viewer</h3>
+
+<p align="center">
+  <a href="https://nbviewer.org/github/yourusername/yourrepo/blob/main/notebook.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Interactive%20Slides%20on%20nbviewer-blue?style=for-the-badge&logo=jupyter" alt="View on nbviewer"/>
+  </a>
+</p>
+
+---
 
 <!-- Gradient Divider -->
 <p align="center">
@@ -151,7 +187,7 @@ print(f"Average sales: {average_sales}")
   </a>
 </p>
 
-<!-- Custom Quote or Slogan -->
+<!-- Outro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Let's+turn+data+into+insights,+and+insights+into+action!;Keep+Learning,+Keep+Growing!+🚀" alt="Outro Typing SVG" />
+  <b>Let's turn data into insights, and insights into action! 🚀</b>
 </p>
