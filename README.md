@@ -52,13 +52,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F2C811,FF5C93,3776AB,150458&height=60&section=header"/>
 </p>
 
-<!-- Featured Project -->
-<h2 align="center">🌟 Flagship Data Analysis Project</h2>
-<blockquote align="center">
-  <b>A comprehensive data analysis journey combining Python, Pandas, and Power BI to uncover actionable insights from raw data.</b>
-  <br>
-  <em>Curious about my work? Scroll for code samples!</em>
-</blockquote>
+
 
 <!-- Gradient Divider -->
 <p align="center">
