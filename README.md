@@ -2,7 +2,7 @@
 
 <!-- Custom Banner (replace with your own or use this placeholder) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76D47&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Harsh Raundal!;Data+Analyst+%7C+Visualization+Ninja+%7C+Quick+Learner;Turning+Data+Into+Stories+%F0%9F%93%88" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F76D47&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Harsh+Raundal!;Data+Analyst+%7C+Visualization+Ninja+%7C+Quick+Learner;Turning+Data+Into+Stories+%F0%9F%93%88" alt="Typing SVG Banner" />
 </p>
 
 <!-- Cool Animated Divider -->
