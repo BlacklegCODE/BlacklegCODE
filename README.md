@@ -47,9 +47,7 @@
 </p>
 
 <!-- Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=57C5B6,5DD8FF,7B2FF2,3C096C,9D4EDD,5A189A&height=50&section=header"/>
-</p>
+
 
 <!-- GitHub Stats Section -->
 <h2 align="center"><b>GitHub Stats & Consistency</b></h2>
