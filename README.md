@@ -1,142 +1,94 @@
-<!-- 🌟 Fancy & Professional Profile README for BlacklegCODE 🌟 -->
+<!-- Artistic & Professional Profile README for Harsh Raundal (BlacklegCODE) -->
 
-<!-- Animated Typing Banner -->
+<!-- Title Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=44D9E6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harsh+Raundal+%F0%9F%91%8B;Data+Analyst+%7C+Visualization+Specialist+%7C+Pythonista;Making+Data+Beautiful+%E2%9C%A8" alt="Typing SVG Banner" />
-</p>
-
-<!-- Custom Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=44D9E6,9157E6,F9D423,FF4E50&height=6&section=header"/>
-</p>
-
-<!-- Animated GIF Introduction -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="240" alt="data visualization animation"/>
-</p>
-
-<!-- About Me -->
-<h2 align="center">✨ About Me</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-1abc9c?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualization%20Geek-f9d423?style=for-the-badge&logo=tableau&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pythonista-44D9E6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storyteller-FF4E50?style=for-the-badge&logo=readme&logoColor=white" />
-</p>
-<p align="center">
-  <b>Transforming numbers into visuals & insights.<br>
-  <i>Data Analyst | Visualization Specialist | Problem Solver</i></b><br>
-  <span>🔬 Python • Pandas • Matplotlib • Power BI • SQL • DSA</span><br>
-  <em>Traveler ✈️ | Gamer 🎮 | Lifelong Learner 🚀</em>
-</p>
-
-<!-- Stylish Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9D423,44D9E6,FF4E50,9157E6&height=65&section=header"/>
-</p>
-
-<!-- Tech Stack Section with Large Custom Icons -->
-<h2 align="center">🛠️ My Tech Stack</h2>
-<p align="center" style="margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/DSA-0081CB?style=for-the-badge&logo=codewars&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF4E50?style=for-the-badge&logo=tableau&logoColor=white&labelColor=23272F&labelWidth=130" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=48&duration=3000&pause=500&color=3C096C&center=true&vCenter=true&width=800&lines=Hi,+I'm+Harsh+Raundal" alt="Main banner" />
 </p>
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9157E6,F9D423,FF4E50,44D9E6&height=6&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C,5A189A,9D4EDD,7B2FF2,5DD8FF,57C5B6&height=50&section=header"/>
 </p>
 
-<!-- Data Visualization Showcase -->
-<h2 align="center">📊 Visualization Gallery</h2>
+<!-- Tech Stack Section -->
+<h2 align="center"><b>Tech Stack</b></h2>
 <p align="center">
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Data Visualization" width="420"/>
+  <img src="https://img.shields.io/badge/Java-3C096C?style=for-the-badge&logo=java&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Python-5A189A?style=for-the-badge&logo=python&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Pandas-57C5B6?style=for-the-badge&logo=pandas&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Matplotlib-7B2FF2?style=for-the-badge&logo=matplotlib&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Jupyter-9D4EDD?style=for-the-badge&logo=jupyter&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Power%20BI-5DD8FF?style=for-the-badge&logo=powerbi&logoColor=black" height="36"/>
+  <img src="https://img.shields.io/badge/SQL-3C096C?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
 </p>
-<details>
-  <summary><b>Sample Visualization Code</b></summary>
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-data = {'Year': [2022, 2023, 2024], 'Growth': [120, 180, 250]}
-df = pd.DataFrame(data)
-
-plt.plot(df['Year'], df['Growth'], marker='o', color='#44D9E6')
-plt.title('Yearly Growth', fontsize=16)
-plt.xlabel('Year')
-plt.ylabel('Growth')
-plt.grid(True, linestyle='--', alpha=0.7)
-plt.tight_layout()
-plt.show()
-```
-</details>
-
-<!-- Stylish Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4E50,44D9E6,F9D423,9157E6&height=65&section=header"/>
-</p>
-
-<!-- Jupyter Notebook Sample -->
-<h2 align="center">📒 Jupyter Notebook in Action</h2>
-
-```python
-import pandas as pd
-
-# Analyze product sales data
-df = pd.DataFrame({
-    'Product': ['A', 'B', 'C'],
-    'Sales': [123, 150, 98]
-})
-print(f"Average sales: {df['Sales'].mean():.2f}")
-```
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4E50,44D9E6,9157E6,F9D423&height=6&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD,5A189A,3C096C,5DD8FF,57C5B6,7B2FF2&height=4&section=header"/>
 </p>
 
-<!-- GitHub Stats & Trophies -->
-<h2 align="center">🏆 My GitHub Journey</h2>
+<!-- Featured Repository -->
+<h2 align="center"><b>Featured Java Repository</b></h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlacklegCODE&theme=matrix&margin-w=15" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&layout=compact&theme=matrix" alt="Top Languages" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BlacklegCODE&show_icons=true&theme=matrix&hide=prs" alt="GitHub Stats" height="130"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlacklegCODE&theme=matrix" alt="GitHub Streak" height="130"/>
+  <a href="https://github.com/BlacklegCODE/JAVA-all-codes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlacklegCODE&repo=JAVA-all-codes&theme=midnight-purple" alt="Featured Java Repo" />
+  </a>
 </p>
 
-<!-- Custom Divider -->
+<!-- About Me Paragraph -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=44D9E6,FF4E50,9157E6,F9D423&height=65&section=header"/>
+  <b>
+    👋 Hi, I'm Blackleg<br/>
+    🎓 Bachelors in Computer Science<br/><br/>
+    🔭 Currently learning: Data Structures, Power BI<br/><br/>
+    🛠️ Tech: Python, SQL, Pandas, HTML/CSS<br/><br/>
+    🧠 Interests: AI, OR, DSA, Visualizations
+  </b>
 </p>
 
-<!-- Connect With Me -->
-<h2 align="center">🌐 Let's Connect</h2>
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=57C5B6,5DD8FF,7B2FF2,3C096C,9D4EDD,5A189A&height=50&section=header"/>
+</p>
+
+<!-- GitHub Stats Section -->
+<h2 align="center"><b>GitHub Stats & Consistency</b></h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlacklegCODE&style=flat-square&color=9D4EDD" alt="Profile Views"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&layout=compact&theme=midnight-purple&bg_color=00000000" alt="Most Used Languages" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlacklegCODE&theme=onestar&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlacklegCODE&theme=github-dark-blue&hide_border=true&ring=13F1FC&fire=13F1FC&currStreakNum=13F1FC&sideNums=13F1FC&currStreakLabel=13F1FC&sideLabels=13F1FC&dates=5DD8FF" alt="GitHub Streak in Cyan" height="170"/>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/13F1FC/BlacklegCODE" alt="Harsh Raundal's Github Contribution Chart" style="max-width:100%; border-radius: 10px; border: 2px solid #9D4EDD;" />
+</p>
+<p align="center" style="color:#5A189A; font-size:1.15rem; font-weight:700;">
+  <b>Consistent coding, learning, and building—every single day.</b>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5DD8FF,7B2FF2,3C096C,9D4EDD,5A189A,57C5B6&height=4&section=header"/>
+</p>
+
+<!-- Connect Collab Create Section -->
+<h2 align="center"><b>connect • collab • create with me</b></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-raundal-b4a384215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23272F&labelWidth=120" height="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
   <a href="https://www.instagram.com/h_k_raundal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=23272F&labelWidth=120" height="40" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
 </p>
 
-<!-- Stylish Outro Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=44D9E6,FF4E50,F9D423,9157E6&height=6&section=header"/>
-</p>
-
-<!-- Final Motivational Line -->
-<p align="center">
-  <b><i>Let's unlock the power of data, together! 🚀</i></b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C,5A189A,9D4EDD,7B2FF2,5DD8FF,57C5B6&height=50&section=header"/>
 </p>
