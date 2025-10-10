@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/harsh-raundal-b4a384215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  <a href="[https://www.instagram.com/h_k_raundal/](https://www.instagram.com/__your.s.truely__/)" target="_blank">
+  <a href="https://www.instagram.com/__your.s.truely__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
 </p>
