@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=3C096C&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal;Data+Analytics+Enthusiast;Visualization+%26+BI+Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=3C096C&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal;Data+Analytics+Enthusiast"
     alt="Typing SVG"
   />
 </p>
@@ -47,10 +47,12 @@
 
 ## ⭐ Featured Repository
 
+> If the card below doesn’t render, it’s almost always because GitHub blocks the external image host temporarily or the stats service is rate-limited.
+
 <p align="center">
   <a href="https://github.com/BlacklegCODE/JAVA-all-codes">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=BlacklegCODE&repo=JAVA-all-codes&theme=midnight-purple&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=BlacklegCODE&repo=JAVA-all-codes&theme=midnight-purple&hide_border=true&cache_seconds=7200"
       alt="Pinned repo: JAVA-all-codes"
     />
   </a>
@@ -62,7 +64,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BlacklegCODE&theme=midnight-purple&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=BlacklegCODE&theme=midnight-purple&hide_border=true&rank_icon=github&cache_seconds=7200"
     alt="GitHub Stats"
   />
 </p>
@@ -74,10 +76,23 @@
   />
 </p>
 
+### 🥧 Top Languages (pie) + 📌 Top Languages (card)
+
+> Note: GitHub Readme Stats cannot show a *true* “all-time languages you used everywhere” chart. It only counts languages from your public repos (and may exclude some repos/files by design). A private profile also reduces what can be shown.
+
 <p align="center">
+  <!-- Pie chart -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&layout=compact&theme=midnight-purple&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=pie&langs_count=10&cache_seconds=7200"
+    alt="Top Languages (Pie)"
+  />
+</p>
+
+<p align="center">
+  <!-- Compact card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10&cache_seconds=7200"
+    alt="Top Languages (Compact)"
   />
 </p>
 
@@ -98,6 +113,8 @@
 </p>
 
 ---
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=BlacklegCODE&icon=0&color=5A189A" alt="Profile Views" />
