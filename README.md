@@ -15,10 +15,10 @@
 
 ## 💫 About Me
 
-- 🔭 Working on **ClimateScope** (Data Analytics Project)  
-- 🎓 Third-year **BSc Computer Science** student  
-- 💼 Intern at **Infosys**  
-- 📊 Interested in **Data Analytics, Visualization & BI**  
+- 🔭 Working on **ClimateScope** (Data Analytics Project)
+- 🎓 Third-year **BSc Computer Science** student
+- 💼 Intern at **Infosys**
+- 📊 Interested in **Data Analytics, Visualization & BI**
 
 <br/>
 
@@ -77,17 +77,22 @@
 ## 🗣️ Top Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"
-    alt="Top Languages Compact"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8"
-    alt="Top Languages Donut"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320"
+          alt="Top Languages Compact"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8"
+          alt="Top Languages Donut Chart"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br/>
