@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://github.com/BlacklegCODE/JAVA-all-codes">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=BlacklegCODE&repo=JAVA-all-codes&theme=midnight-purple&hide_border=true&show_owner=true"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BlacklegCODE&repo=JAVA-all-codes&theme=midnight-purple&hide_border=true&show_owner=true"
       alt="Pinned repo: JAVA-all-codes"
     />
   </a>
@@ -60,7 +60,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BlacklegCODE&theme=midnight-purple&hide_border=true&rank_icon=github&show_icons=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=BlacklegCODE&theme=midnight-purple&hide_border=true&rank_icon=github&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
@@ -81,13 +81,13 @@
     <tr>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320"
           alt="Top Languages Compact"
         />
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8"
           alt="Top Languages Donut Chart"
         />
       </td>
