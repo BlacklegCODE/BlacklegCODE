@@ -20,14 +20,6 @@
 - 💼 Intern at **Infosys**
 - 📊 Interested in **Data Analytics, Visualization & BI**
 
-<br/>
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raundal-b4a384215)
-
-<br/>
-
 ## My Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
