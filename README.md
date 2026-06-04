@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal+%F0%9F%91%8B;Data+Analytics+Enthusiast;Visualization+%26+BI+Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal+%F0%9F%91%8B;Data+An[...]"
     alt="Typing SVG"
   />
 </p>
@@ -81,13 +81,13 @@
     <tr>
       <td align="center">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320&v=2"
           alt="Top Languages Compact"
         />
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8&v=2"
           alt="Top Languages Donut Chart"
         />
       </td>
