@@ -3,7 +3,7 @@
 <!-- ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal+%F0%9F%91%8B;Data+An[...]"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=42&duration=3000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Harsh+Raundal+%F0%9F%91%8B;Data+Analyst;Problem+Solver;Tech+Enthusiast"
     alt="Typing SVG"
   />
 </p>
@@ -25,6 +25,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -73,13 +74,13 @@
     <tr>
       <td align="center">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320&v=2"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=320&v=3&cache_seconds=0"
           alt="Top Languages Compact"
         />
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8&v=2"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlacklegCODE&theme=midnight-purple&hide_border=true&layout=donut&langs_count=8&v=3&cache_seconds=0"
           alt="Top Languages Donut Chart"
         />
       </td>
